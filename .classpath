@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jme"/>
+	<classpathentry kind="lib" path="lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/jme/lib/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/jme/lib/jorbis/jorbis-0.0.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
