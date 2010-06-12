@@ -9,7 +9,7 @@ Background
 ==========
 
 We took the mad scientist approach and created a weird 3D game loosely 
-based on Bröderbund's 80es classic Choplifter. To play the game 
+based on Brøderbund's 80es classic Choplifter. To play the game 
 successfully the player must possess a combination of good navigation 
 skills and planning ability.
 
