@@ -2,9 +2,20 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/jme"/>
 	<classpathentry kind="lib" path="lib/bsh-2.0b4.jar"/>
-	<classpathentry kind="lib" path="/jme/lib/lwjgl/lwjgl.jar"/>
-	<classpathentry kind="lib" path="/jme/lib/jorbis/jorbis-0.0.17.jar"/>
+	<classpathentry kind="lib" path="dist/jorbis/jorbis-0.0.17.jar"/>
+	<classpathentry kind="lib" path="dist/lwjgl/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="sheeplifter_google/dist/lwjgl/native/win32"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/jme/jme-audio.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme-effects.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme-font.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme-gamestates.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme-model.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme-scene.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme-terrain.jar"/>
+	<classpathentry kind="lib" path="dist/jme/jme.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
