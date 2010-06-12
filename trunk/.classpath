@@ -6,7 +6,7 @@
 	<classpathentry kind="lib" path="dist/jorbis/jorbis-0.0.17.jar"/>
 	<classpathentry kind="lib" path="dist/lwjgl/lwjgl.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="sheeplifter_google/dist/lwjgl/native/win32"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Sheeplifter/dist/lwjgl/native/macosx"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="dist/jme/jme-audio.jar"/>
