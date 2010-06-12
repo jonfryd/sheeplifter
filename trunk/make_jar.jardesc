@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="MacRoman"?>
+<jardesc>
+<jar path="Sheeplifter/dist/sheeplifter.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/Sheeplifter/make_jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.spatials.actors.dropzone"/>
+<file path="/Sheeplifter/res/sound/vortex.wav"/>
+<file path="/Sheeplifter/res/sound/sheep_game_capture03.ogg"/>
+<file path="/Sheeplifter/res/geometry/trail.png"/>
+<file path="/Sheeplifter/res/geometry/grass_3.jme"/>
+<file path="/Sheeplifter/res/geometry/grass_2.jme"/>
+<file path="/Sheeplifter/res/geometry/dropzone_particles.jme"/>
+<file path="/Sheeplifter/res/sound/maeh4.wav"/>
+<file path="/Sheeplifter/res/sound/vandloop.ogg"/>
+<file path="/Sheeplifter/res/maps/oceanfoam.png"/>
+<file path="/Sheeplifter/res/sound/maeh7.wav"/>
+<file path="/Sheeplifter/res/geometry/grass4_S.png"/>
+<file path="/Sheeplifter/res/sound/maeh5.wav"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.util"/>
+<file path="/Sheeplifter/res/sound/sheeplifter-menu-vandloop-wet.ogg"/>
+<file path="/Sheeplifter/res/sound/beam-real-loop2.wav"/>
+<file path="/Sheeplifter/res/geometry/flaresmall.jpg"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.effects"/>
+<file path="/Sheeplifter/res/sound/maeh13.wav"/>
+<file path="/Sheeplifter/res/sound/sheep-drop.wav"/>
+<file path="/Sheeplifter/res/sound/maeh8.wav"/>
+<file path="/Sheeplifter/res/geometry/grass_5.jme"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.audio.openal"/>
+<file path="/Sheeplifter/res/maps/lava2.jpg"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.shaders"/>
+<file path="/Sheeplifter/res/geometry/wool_particles.jme"/>
+<file path="/Sheeplifter/res/geometry/new-sheep.jme"/>
+<file path="/Sheeplifter/res/sound/maeh6.wav"/>
+<file path="/Sheeplifter/res/sound/silence.ogg"/>
+<file path="/Sheeplifter/res/sound/maeh12.wav"/>
+<file path="/Sheeplifter/res/geometry/COLOR.PNG"/>
+<file path="/Sheeplifter/res/geometry/grass_4.jme"/>
+<file path="/Sheeplifter/res/maps/lava1.png"/>
+<file path="/Sheeplifter/res/sound/fail.wav"/>
+<file path="/Sheeplifter/res/maps/HUD_sheep.png"/>
+<file path="/Sheeplifter/res/maps/HUD_sheep_ghost.png"/>
+<file path="/Sheeplifter/res/maps/3.png"/>
+<file path="/Sheeplifter/res/sound/maeh2.wav"/>
+<file path="/Sheeplifter/res/geometry/lava_particles.jme"/>
+<file path="/Sheeplifter/res/sound/maeh10.wav"/>
+<file path="/Sheeplifter/res/geometry/palmtr.tga"/>
+<file path="/Sheeplifter/res/maps/Detail.jpg"/>
+<file path="/Sheeplifter/res/geometry/beam_particles.jme"/>
+<file path="/Sheeplifter/res/geometry/grass2_g.png"/>
+<file path="/Sheeplifter/res/sound/engineloop3.wav"/>
+<file path="/Sheeplifter/res/maps/optionscreen.png"/>
+<file path="/Sheeplifter/res/maps/1.png"/>
+<file path="/Sheeplifter/res/sound/maeh1.wav"/>
+<file path="/Sheeplifter/res/maps/fixedfont.png"/>
+<file path="/Sheeplifter/res/geometry/beam.png"/>
+<file path="/Sheeplifter/res/sound/gamewon.ogg"/>
+<file path="/Sheeplifter/res/maps/4.png"/>
+<file path="/Sheeplifter/res/maps/grassb.png"/>
+<file path="/Sheeplifter/res/maps/2.png"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.spatials.actors.sheep"/>
+<file path="/Sheeplifter/res/geometry/palmtree.jme"/>
+<file path="/Sheeplifter/res/geometry/grass5_S.png"/>
+<file path="/Sheeplifter/res/sound/gameover-wierd.ogg"/>
+<file path="/Sheeplifter/res/sound/sheep-pop.wav"/>
+<file path="/Sheeplifter/res/maps/sheeplifter.jpg"/>
+<file path="/Sheeplifter/res/sound/wulf.wav"/>
+<file path="/Sheeplifter/res/geometry/dropspheremap.png"/>
+<file path="/Sheeplifter/res/maps/highest.jpg"/>
+<file path="/Sheeplifter/res/maps/HUD_sheep_drowning.png"/>
+<file path="/Sheeplifter/res/geometry/vehicle_wolf.jme"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.spatials.actors"/>
+<file path="/Sheeplifter/res/sound/earthquake02.wav"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.spatials.actors.ship"/>
+<file path="/Sheeplifter/res/geometry/grass3_S.png"/>
+<file path="/Sheeplifter/res/maps/6.png"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.spatials"/>
+<file path="/Sheeplifter/res/geometry/thruster.jme"/>
+<file path="/Sheeplifter/res/sound/maeh11.wav"/>
+<file path="/Sheeplifter/res/maps/dirt.jpg"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.terrain"/>
+<file path="/Sheeplifter/res/sound/cutengine loop.wav"/>
+<file path="/Sheeplifter/res/sound/beam-end2.wav"/>
+<file path="/Sheeplifter/res/sound/engine_thrust_01a.wav"/>
+<file path="/Sheeplifter/res/.DS_Store"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter"/>
+<javaElement handleIdentifier="=Sheeplifter/src&lt;dk.impact.sheeplifter.audio"/>
+<file path="/Sheeplifter/res/sound/maeh3.wav"/>
+<file path="/Sheeplifter/res/maps/5.png"/>
+<file path="/Sheeplifter/res/sound/sheep_pop02_1.wav"/>
+<file path="/Sheeplifter/res/sound/maeh9.wav"/>
+</selectedElements>
+<fatjar builder="org.eclipse.jdt.ui.plain_jar_builder" launchConfig=""/>
+</jardesc>
