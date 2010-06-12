@@ -2,7 +2,6 @@ package dk.impact.sheeplifter.spatials.actors.ship;
 
 import com.jme.input.action.KeyInputAction;
 import com.jme.input.action.InputActionEvent;
-import jmetest.flagrushtut.lesson8.Vehicle;
 
 /**
  * AccelerateAction defines the action that occurs when the key is pressed to

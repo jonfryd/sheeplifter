@@ -5,7 +5,6 @@ import com.jme.input.action.InputActionEvent;
 import com.jme.math.Matrix3f;
 import com.jme.math.Vector3f;
 import com.jme.math.FastMath;
-import jmetest.flagrushtut.lesson8.Vehicle;
 
 /**
  * VehicleRotateLeftAction turns the vehicle to the left (while
