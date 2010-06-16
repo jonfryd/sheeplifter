@@ -89,7 +89,7 @@ Thanks to
 License
 =======
 
-Copyright (c) 2008-2010, Jeppe Schmidt and Jon Frydensbjerg
+Copyright (c) 2008-2010, Impact Games
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
