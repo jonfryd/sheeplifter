@@ -61,8 +61,7 @@ the ground (or water) onto your ship. To complete the abduction, return
 the sheep to the vortex centrifuge. 
 
 Rules: 
-- You have 3 minutes and 20 seconds until the island is completely 
-flooded. 
+- You have 3 minutes and 20 seconds until the island is completely flooded. 
 - A sheep can survive no longer than 30 seconds in the hot water. 
 - Your ship can carry no more than 5 sheep at a time.
 
