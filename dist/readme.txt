@@ -29,6 +29,9 @@ Music and sound design:
 * Thomas Bendt, thomasbendt@elleve.dk
 * Nicklas Schmidt, info@nicklas-schmidt.com
 
+Palm tree model, grass models and sky-box maps: 
+* loopix-project.com 
+
 ===================
 System requirements
 ===================
