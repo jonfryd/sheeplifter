@@ -14,7 +14,7 @@ Credits
 
 Programming: 
 * Jeppe Schmidt, jeppe.schmidt@gmail.com
-* Jon Frydensbjerg, jonf@mail.dk
+* Jon Frydensbjerg, jonf@vip.cybercity.dk
 
 Music and sound design:
 * Thomas Bendt, thomasbendt@elleve.dk
