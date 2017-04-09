@@ -9,6 +9,8 @@ The game is driven by Java Monkey Engine and features a good deal of
 procedurally generated content (such as the randomly terraformed 
 terrain). You will never play the same game twice. ;-)
 
+[![Watch in-game footage](https://img.youtube.com/vi/95khpgYa7Eo/0.jpg)](https://www.youtube.com/watch?v=95khpgYa7Eo)
+
 Credits
 =======
 
